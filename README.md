@@ -9,6 +9,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
+-  Myself Parth Nikam
 - 🔭 I’m currently working on Mega Engineering Suite
 - 👨‍💻 All of my projects are available at https://github.com/parthdevs2006-dotcom
 - 📫 How to reach me parthdevs2006@gmail.com
