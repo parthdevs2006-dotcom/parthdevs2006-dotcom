@@ -10,10 +10,10 @@
 
 ## 📌 About Me
 -  Myself Parth Nikam
-- 🔭 I’m currently working on Mega Engineering Suite
-- 👨‍💻 All of my projects are available at https://github.com/parthdevs2006-dotcom
-- 📫 How to reach me parthdevs2006@gmail.com
-- ⚡ Fun fact I enjoy building tools that save hundreds of hours of manual work.
+-  I’m currently working on Mega Engineering Suite
+-  All of my projects are available at https://github.com/parthdevs2006-dotcom
+-  How to reach me parthdevs2006@gmail.com
+-  Fun fact I enjoy building tools that save hundreds of hours of manual work.
 
 
 ## 🧠 My Focus Areas
